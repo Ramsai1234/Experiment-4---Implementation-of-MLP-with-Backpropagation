@@ -122,6 +122,7 @@ Normalize our dataset.
 ```
 ```
 Developed by: P.Ramsai
+
 reg no: 212221240041
 ```
 import pandas as pd
@@ -159,7 +160,14 @@ print(predictions)
 print(confusion_matrix(y_test,predictions))
 print(classification_report(y_test,predictions))
 ```
+## OUTPUT
+![Screenshot (192)](https://user-images.githubusercontent.com/94269989/199164254-a6b78f50-f873-4313-ae69-ab3bed4007ae.png)
 
-## OUTPUT 
+![Screenshot (193)](https://user-images.githubusercontent.com/94269989/199164464-f1d40e2b-3d54-47ec-a10f-742b3fa922a3.png)
+![Screenshot (194)](https://user-images.githubusercontent.com/94269989/199164485-f9763dac-2447-4a44-9173-b7f5c93a8dbf.png)
+
+
+
 
 ## RESULT
+Thus Implementation-of-MLP-with-Backpropagation problem is executed successfully.
